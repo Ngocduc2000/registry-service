@@ -1,6 +1,8 @@
+#port ma server eureka chay tren
 server:
   port: 8761
 
+#cau hinh host name cua server eureka
 eureka:
   instance:
     hostname: localhost
